@@ -1,2 +1,2 @@
-# Function-Only-Libraries
-Function only libraries for Alibre Design API
+# Function-Libraries
+Function libraries for Alibre Design API
