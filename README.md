@@ -252,3 +252,5 @@
 - [ ] ISketchFigureIntersection
 - [ ] ISketchFigureOpenLoop
 - [ ] ISketchFigureOverlap
+
+### PROJECT IS ON HOLD 
