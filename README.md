@@ -1,4 +1,4 @@
-# Function-Libraries [WIP]
+# Function-Libraries
 ## Function libraries for Alibre Design API
 
 
