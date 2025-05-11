@@ -1,6 +1,8 @@
 # Function-Libraries [WIP]
 ## Function libraries for Alibre Design API
 
+
+[Sketch-Function-Library](https://github.com/Testbed-for-Alibre-Design/Sketch-Function-Library)
 ### List of enums, classes and interfaces implemented:
 
 - [X] THIS REPO
@@ -39,7 +41,7 @@
 - [ ] ADPrecisionSetting
 - [ ] ADSelectionFilterOption
 - [ ] ADSecureObjectType
-- [ ] ADSketchConstraintType
+- [X] ADSketchConstraintType
 - [ ] ADTappedThreadType
 - [ ] ADTopologyType
 - [ ] ADUnits
@@ -51,20 +53,20 @@
 - [ ] DIEnum
 - [ ] EventManager
 - [ ] IAD2DPoint
-- [ ] IAD3DSketch
-- [ ] IAD3DSketchBspline
-- [ ] IAD3DSketchCircle
-- [ ] IAD3DSketchCircularArc
-- [ ] IAD3DSketchEllipse
-- [ ] IAD3DSketchEllipticArc
-- [ ] IAD3DSketchFigure
-- [ ] IAD3DSketchFigures
-- [ ] IAD3DSketchLine
-- [ ] IAD3DSketchPoint
+- [X] IAD3DSketch
+- [X] IAD3DSketchBspline
+- [X] IAD3DSketchCircle
+- [X] IAD3DSketchCircularArc
+- [X] IAD3DSketchEllipse
+- [X] IAD3DSketchEllipticArc
+- [X] IAD3DSketchFigure
+- [X] IAD3DSketchFigures
+- [X] IAD3DSketchLine
+- [X] IAD3DSketchPoint
 - [ ] IADAddOns
 - [ ] IADAlignConstraint
 - [ ] IADAngleConstraint
-- [ ] IADAnalyzedSketchData
+- [X] IADAnalyzedSketchData
 - [ ] IADAssemblyConstraint
 - [ ] IADAssemblyConstraintBoundType
 - [ ] IADAssemblyConstraintParameterRole
@@ -83,7 +85,7 @@
 - [ ] IADCircularArc
 - [ ] IADCoedge
 - [ ] IADCoedges
-- [ ] IADComplexSketchFigure
+- [X] IADComplexSketchFigure
 - [ ] IADCompositeFigure
 - [ ] IADCone
 - [ ] IADConfiguration
@@ -191,21 +193,21 @@
 - [ ] IADShell
 - [ ] IADShellFeature
 - [ ] IADShells
-- [ ] IADSketch
-- [ ] IADSketchBspline
-- [ ] IADSketchCircle
-- [ ] IADSketchCircularArc
-- [ ] IADSketchConstraint
-- [ ] IADSketchConstraints
-- [ ] IADSketchEllipse
-- [ ] IADSketchEllipticArc
-- [ ] IADSketchFigure
-- [ ] IADSketchFigures
-- [ ] IADSketchLine
-- [ ] IADSketchPoint
-- [ ] IADSketchShapePattern
-- [ ] IADSketchText
-- [ ] IADSketches
+- [X] IADSketch
+- [X] IADSketchBspline
+- [X] IADSketchCircle
+- [X] IADSketchCircularArc
+- [X] IADSketchConstraint
+- [X] IADSketchConstraints
+- [X] IADSketchEllipse
+- [X] IADSketchEllipticArc
+- [X] IADSketchFigure
+- [X] IADSketchFigures
+- [X] IADSketchLine
+- [X] IADSketchPoint
+- [X] IADSketchShapePattern
+- [X] IADSketchText
+- [X] IADSketches
 - [ ] IADSMClosedCornerFeature
 - [ ] IADSMCornerChamferFeature
 - [ ] IADSMCornerRoundFeature
@@ -241,16 +243,14 @@
 - [ ] IADVertexChamferFeature
 - [ ] IADVertices
 - [ ] IADWrapFeature
-- [ ] IAnalyzedSketchData
+- [X] IAnalyzedSketchData
 - [ ] IAutomationHook
 - [ ] IDecomposedTransformData
 - [ ] INotificationSelector
 - [ ] IObjectCollector
 - [ ] IPermissionSelector
-- [ ] ISketchDegenerateFigure
-- [ ] ISketchFigureDisjointEnd
-- [ ] ISketchFigureIntersection
-- [ ] ISketchFigureOpenLoop
-- [ ] ISketchFigureOverlap
-
-### PROJECT IS ON HOLD 
+- [X] ISketchDegenerateFigure
+- [X] ISketchFigureDisjointEnd
+- [X] ISketchFigureIntersection
+- [X] ISketchFigureOpenLoop
+- [X] ISketchFigureOverlap
