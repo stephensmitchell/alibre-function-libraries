@@ -1,8 +1,7 @@
 # Function-Libraries
 ## Function libraries for Alibre Design API
 
-
-[Sketch-Function-Library](https://github.com/Testbed-for-Alibre-Design/Sketch-Function-Library)
+[Sketch Function Library](https://github.com/stephensmitchell/alibre-sketch-function-library)
 ### List of enums, classes and interfaces implemented:
 
 - [X] THIS REPO
